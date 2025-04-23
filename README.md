@@ -60,4 +60,4 @@ git
 11. Use the ClickOps method to deploy a new CE, with the same settings as the original: 
     - Navigate to https://docs.cloud.f5.com/docs-v2
     - Scroll down and click `Multi-Cloud Network Connect`
-    - From the left menu >> `How To` >> `Site Management` >> `Deploy Secure Mesh Site v2 in Azure (ClickOps)`.
+    - From the left menu >> `How To` >> `Site Management` >> `Deploy Secure Mesh Site v2 in Azure (ClickOps)`
